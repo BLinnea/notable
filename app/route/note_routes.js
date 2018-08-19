@@ -23,5 +23,3 @@ app.get('/notes/:id', (req, res) => {
     });
   });
 }
-
-//comment
